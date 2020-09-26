@@ -1,2 +1,2 @@
-# Word2Vec_Libre
-Analizando datos.
+# word2vec-workshop
+Practica Libre usando la la técnica Word2Vec
